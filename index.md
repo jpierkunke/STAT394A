@@ -32,11 +32,11 @@ Before each class, I posted slides with blank space for the students to fill in 
   
 - Chapter 1: Experiments with Random Outcomes
     - [blank slides](Slides/STAT394_Chapter1_slides.pdf)
-    - [annotated slides](Slides_Annotated/STAT394_Chapter1_Lecture01_allslides.pdf)
+    - [annotated slides](Slides_Annotated/STAT394_Chapter1_Lecture01_allnotes.pdf)
   
 - Chapter 2: Conditional Probability and Independence
     - Part 1 [blank slides](Slides/STAT394_Chapter2_Part1_slides.pdf), [annotated slides](Slides_Annotated/STAT394_Chapter2_Lec1_up_to_indep_and_RVs.pdf)
-    - Part 2 [blank slides](Slides/STAT394_Chapter2_Part2_slides.pdf), [annotated slides](Slides/STAT394_Chapter2_Lec2_restofchapter2.pdf)
+    - Part 2 [blank slides](Slides/STAT394_Chapter2_Part2_slides.pdf), [annotated slides](Slides_Annotated/STAT394_Chapter2_Lec2_restofchapter2.pdf)
 
 - Chapter 3: Random Variables
     - Part 1 [blank slides](Slides/STAT394_Chapter3_Part1_slides.pdf)
