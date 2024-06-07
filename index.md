@@ -32,3 +32,5 @@ By the end of MATH/STAT 394, students will be able to...
 ## Homework assignments
 
 ## Acknowledgements
+
+These materials are developed based on slides from a previous instructor, Vincent Roulet.
