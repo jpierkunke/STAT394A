@@ -23,6 +23,12 @@ By the end of MATH/STAT 394, students will be able to...
 
 ## Lecture slides
 
+- Chapter 0: Course introduction [slides](Slides/STAT394_Chapter0_Intro_slides.pdf)
+- Chapter 1: Experiments with Random Outcomes [slides](Slides/STAT394_Chapter1_slides.pdf)
+- Chapter 2: Conditional Probability and Independence
+    - Part 1 [slides](Slides/STAT394_Chapter2_Part1_slides.pdf)
+    - Part 2 [slides](Slides/STAT394_Chapter2_Part2_slides.pdf)
+
 ## Homework assignments
 
 ## Acknowledgements
