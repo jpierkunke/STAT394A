@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STAT394A",
+    "section": "",
+    "text": "This is the first quarter of a sequence in probability theory. This quarter, we will present the axioms of probability, that is, the tools to measure the uncertainty of some events. We will introduce the concepts of conditional and independent events. Then we will define what are random variables, how do we characterize discrete and continuous random variables by means of their probability mass or density functions. We will define what is the expectation and variance of a random variable, as well as how we compute these quantities using the probability mass or density functions. We will introduce classical distributions, such as the Bernoulli, binomial, geometric, Poisson, uniform, exponential, and Gaussian distributions. Finally, we will introduce the Law of Large Numbers and the Central Limit Theorem, which are the essential theorems that allow us to move from our theory to concrete estimations of some random variables.\nSyllabus\nBy the end of MATH/STAT 394, students will be able to…\n\nBetter understand different views of “randomness” in the context of probability and statistics\nDefine and apply the following terms/concepts among others: probability, statistics, sample space, probability model, random variable, probability distribution, conditional probability, conditional independence\nIdentify which probability rules to apply when, and correctly apply them\nTake a description of a sampling problem and formulate it in terms of a probability model\nRecognize some common probability distributions\nDetermine when the binomial distribution can be well approximated by normal or Poisson\nApply Bayes’ theorem\nCalculate expectation and variance from a pdf/pmf\nCompute a confidence interval for a sample proportion\n\nThis is an accelerated course, covering a quarter-length course in 4.5 weeks so that students can complete the two-quarter sequence over the summer."
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "STAT394A",
+    "section": "",
+    "text": "This is the first quarter of a sequence in probability theory. This quarter, we will present the axioms of probability, that is, the tools to measure the uncertainty of some events. We will introduce the concepts of conditional and independent events. Then we will define what are random variables, how do we characterize discrete and continuous random variables by means of their probability mass or density functions. We will define what is the expectation and variance of a random variable, as well as how we compute these quantities using the probability mass or density functions. We will introduce classical distributions, such as the Bernoulli, binomial, geometric, Poisson, uniform, exponential, and Gaussian distributions. Finally, we will introduce the Law of Large Numbers and the Central Limit Theorem, which are the essential theorems that allow us to move from our theory to concrete estimations of some random variables.\nSyllabus\nBy the end of MATH/STAT 394, students will be able to…\n\nBetter understand different views of “randomness” in the context of probability and statistics\nDefine and apply the following terms/concepts among others: probability, statistics, sample space, probability model, random variable, probability distribution, conditional probability, conditional independence\nIdentify which probability rules to apply when, and correctly apply them\nTake a description of a sampling problem and formulate it in terms of a probability model\nRecognize some common probability distributions\nDetermine when the binomial distribution can be well approximated by normal or Poisson\nApply Bayes’ theorem\nCalculate expectation and variance from a pdf/pmf\nCompute a confidence interval for a sample proportion\n\nThis is an accelerated course, covering a quarter-length course in 4.5 weeks so that students can complete the two-quarter sequence over the summer."
+  },
+  {
+    "objectID": "index.html#lecture-slides",
+    "href": "index.html#lecture-slides",
+    "title": "STAT394A",
+    "section": "Lecture slides",
+    "text": "Lecture slides\nBefore each class, I posted slides with blank space for the students to fill in as we worked through examples and took notes together. After each class, I posted my annotated slides.\n\nChapter 0: Course introduction\n\nblank slides\n\nChapter 1: Experiments with Random Outcomes\n\nblank slides\nannotated slides\n\nChapter 2: Conditional Probability and Independence\n\nPart 1 blank slides, annotated slides\nPart 2 blank slides, annotated slides\n\nChapter 3: Random Variables\n\nPart 1 blank slides, annotated slides\nPart 2 blank slides, annotated slides\n\nChapter 4: Learning About Distributions From Finite Data\n\nPart 1 blank slides, annotated slides\nPart 2 blank slides, annotated slides\nPart 3 blank slides, annotated slides"
+  },
+  {
+    "objectID": "index.html#homework-assignments",
+    "href": "index.html#homework-assignments",
+    "title": "STAT394A",
+    "section": "Homework assignments",
+    "text": "Homework assignments\n\nHomework 1 pdf\nHomework 2 pdf\nHomework 3 pdf\nHomework 4 pdf"
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "STAT394A",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nI developed these slides and homework assignments based on those from previous instructors Vincent Roulet and Aaron Osgood-Zimmerman."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
