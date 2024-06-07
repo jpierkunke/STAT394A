@@ -28,6 +28,13 @@ By the end of MATH/STAT 394, students will be able to...
 - Chapter 2: Conditional Probability and Independence
     - Part 1 [slides](Slides/STAT394_Chapter2_Part1_slides.pdf)
     - Part 2 [slides](Slides/STAT394_Chapter2_Part2_slides.pdf)
+- Chapter 3: Random Variables
+    - Part 1 [slides](Slides/STAT394_Chapter3_Part1_slides.pdf)
+    - Part 2 [slides](Slides/STAT394_Chapter3_Part2_slides.pdf)
+- Chapter 4: Learning About Distributions From Finite Data
+    - Part 1 [slides](Slides/STAT394_Chapter4beyond_Part1_slides.pdf)
+    - Part 2 [slides](Slides/STAT394_Chapter4beyond_Part2_slides.pdf)
+    - Part 3 [slides](Slides/STAT394_Chapter4beyond_Part3_slides.pdf)
 
 ## Homework assignments
 
