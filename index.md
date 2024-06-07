@@ -49,7 +49,10 @@ Before each class, I posted slides with blank space for the students to fill in 
 
 ## Homework assignments
 
-Homework 1 [pdf](Slides_Annotated/STAT394_Chapter4beyond_Lec2.pdf)
+- Homework 1 [pdf](Homework/STAT394_HW1.pdf)
+- Homework 2 [pdf](Homework/STAT394_HW2.pdf)
+- Homework 3 [pdf](Homework/STAT394_HW3.pdf)
+- Homework 4 [pdf](Homework/STAT394_HW4.pdf)
 
 ## Acknowledgements
 
