@@ -3,9 +3,9 @@ title: STAT 394A Summer 2022
 layout: default
 ---
 
-[Syllabus](STAT394_syllabus_2022_summer_Kunke.pdf)
-
 ## Course description
+
+[Syllabus](STAT394_syllabus_2022_summer_Kunke.pdf)
 
 This is the first quarter of a sequence in probability theory. This quarter, we will present the axioms of probability, that is, the tools to measure the uncertainty of some events. We will introduce the concepts of conditional and independent events. Then we will define what are random variables, how do we characterize discrete and continuous random variables by means of their probability mass or density functions. We will define what is the expectation and variance of a random variable, as well as how we compute these quantities using the probability mass or density functions. We will introduce classical distributions, such as the Bernoulli, binomial, geometric, Poisson, uniform, exponential, and Gaussian distributions. Finally, we will introduce the Law of Large Numbers and the Central Limit Theorem, which are the essential theorems that allow us to move from our theory to concrete estimations of some random variables.
 
