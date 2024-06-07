@@ -39,13 +39,13 @@ Before each class, I posted slides with blank space for the students to fill in 
     - Part 2 [blank slides](Slides/STAT394_Chapter2_Part2_slides.pdf), [annotated slides](Slides_Annotated/STAT394_Chapter2_Lec2_restofchapter2.pdf)
 
 - Chapter 3: Random Variables
-    - Part 1 [blank slides](Slides/STAT394_Chapter3_Part1_slides.pdf)
-    - Part 2 [blank slides](Slides/STAT394_Chapter3_Part2_slides.pdf)
+    - Part 1 [blank slides](Slides/STAT394_Chapter3_Part1_slides.pdf), [annotated slides](Slides_Annotated/STAT394_Chapter3_Lec1_pdf_cdf.pdf)
+    - Part 2 [blank slides](Slides/STAT394_Chapter3_Part2_slides.pdf), [annotated slides](Slides_Annotated/STAT394_Chapter3_Lec2.pdf)
 
 - Chapter 4: Learning About Distributions From Finite Data
-    - Part 1 [blank slides](Slides/STAT394_Chapter4beyond_Part1_slides.pdf)
-    - Part 2 [blank slides](Slides/STAT394_Chapter4beyond_Part2_slides.pdf)
-    - Part 3 [blank slides](Slides/STAT394_Chapter4beyond_Part3_slides.pdf)
+    - Part 1 [blank slides](Slides/STAT394_Chapter4beyond_Part1_slides.pdf), [annotated slides](Slides_Annotated/STAT394_Chapter4beyond_Lec1_transf_conc_ineq.pdf)
+    - Part 2 [blank slides](Slides/STAT394_Chapter4beyond_Part2_slides.pdf), [annotated slides](Slides_Annotated/STAT394_Chapter4beyond_Lec2.pdf)
+    - Part 3 [blank slides](Slides/STAT394_Chapter4beyond_Part3_slides.pdf), [annotated slides](Slides_Annotated/STAT394_Chapter4beyond_Lec3.pdf)
 
 ## Homework assignments
 
