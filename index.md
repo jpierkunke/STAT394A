@@ -27,13 +27,16 @@ This is an accelerated course, covering a quarter-length course in 4.5 weeks so 
 
 Before each class, I posted slides with blank space for the students to fill in as we worked through examples and took notes together. After each class, I posted my annotated slides.
 
-- Chapter 0: Course introduction [blank slides](Slides/STAT394_Chapter0_Intro_slides.pdf)
+- Chapter 0: Course introduction
+    - [blank slides](Slides/STAT394_Chapter0_Intro_slides.pdf)
   
-- Chapter 1: Experiments with Random Outcomes [blank slides](Slides/STAT394_Chapter1_slides.pdf), [annotated](Slides_Annotated/STAT394_Chapter1_Lecture01_allslides.pdf)
+- Chapter 1: Experiments with Random Outcomes
+    - [blank slides](Slides/STAT394_Chapter1_slides.pdf)
+    - [annotated slides](Slides_Annotated/STAT394_Chapter1_Lecture01_allslides.pdf)
   
 - Chapter 2: Conditional Probability and Independence
-    - Part 1 [blank slides](Slides/STAT394_Chapter2_Part1_slides.pdf)
-    - Part 2 [blank slides](Slides/STAT394_Chapter2_Part2_slides.pdf)
+    - Part 1 [blank slides](Slides/STAT394_Chapter2_Part1_slides.pdf), [annotated slides](Slides_Annotated/STAT394_Chapter2_Lec1_up_to_indep_and_RVs.pdf)
+    - Part 2 [blank slides](Slides/STAT394_Chapter2_Part2_slides.pdf), [annotated slides](Slides/STAT394_Chapter2_Lec2_restofchapter2.pdf)
 
 - Chapter 3: Random Variables
     - Part 1 [blank slides](Slides/STAT394_Chapter3_Part1_slides.pdf)
