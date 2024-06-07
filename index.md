@@ -49,6 +49,8 @@ Before each class, I posted slides with blank space for the students to fill in 
 
 ## Homework assignments
 
+Homework 1 [pdf](Slides_Annotated/STAT394_Chapter4beyond_Lec2.pdf)
+
 ## Acknowledgements
 
-I developed these slides and homework assignments based on those from a previous instructor, Vincent Roulet.
+I developed these slides and homework assignments based on those from previous instructors Vincent Roulet and Aaron Osgood-Zimmerman.
